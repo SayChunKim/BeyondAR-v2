@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.8.0_49c21b70c8eaac39d181d301fce3edd07753fd9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.8.0_b4b6125037b2518cb0d6a43fe6250b5f9da4e977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.8.0_cc1c703ba4965c57c0906ddcdbaf18a0b820f558.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_702fe25857ec0fa2f850162522e40948913df103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/libs/beyondar-googlemap-plugin-v0.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ab763928a3a6743d6d0677cea065d171efb40b7a">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/beyondar-googlemap-plugin-v0.9.0_37787a25ab050edc4ee165886a761295476fdb64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.8.0_0d3758d63d1858162e941c1b4063a198edc757e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/libs/beyondar-v0.9.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="89b52007a0824ecf65ea57f01b6ace1c8ed400b9">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/beyondar-v0.9.3_86eb334743cbc63e1a3e06e12dc2a15f65d11106.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.8.0_192e775156bc4ed39d295985c903753417405a6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_b8beb02a65f080b0f60f53d27b20f2b089490180.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_315692ed02b6ec35c57d9d9b32794f18f2916411.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.8.0_cc1f1293cbbba78b775db7538e66d8f669ab10ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.8.0_bcf0d05d52613035bcb2399780f5314562bd3e26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/libs/beyondar-radar-plugin-v0.9.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="25ce04f5845c01910b0f3600914c0c8e8e4f37c2">
+        <dex dex="/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/pre-dexed/debug/beyondar-radar-plugin-v0.9.1_a8fd97acf035ec9bbe193991edeef72c81d4b2db.jar" />
+    </item>
+
+</items>
