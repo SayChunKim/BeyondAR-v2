@@ -12,6 +12,10 @@
         "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable-mdpi/ic_plusone_tall_off_client.png"
     },
     {
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-mdpi/ic_launcher.png",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png",
         "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable-mdpi/common_signin_btn_icon_focus_dark.9.png"
     },

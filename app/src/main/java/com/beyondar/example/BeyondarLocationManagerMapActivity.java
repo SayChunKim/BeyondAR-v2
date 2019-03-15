@@ -31,11 +31,11 @@ import com.beyondar.android.world.World;
 import com.google.android.gms.maps.CameraUpdateFactory;
 import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.GoogleMap.OnMarkerClickListener;
-import com.google.android.gms.maps.MapFragment;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
+import com.google.android.gms.maps.model.MarkerOptions;
 
 public class BeyondarLocationManagerMapActivity extends FragmentActivity implements OnMarkerClickListener,
 		OnClickListener,OnMapReadyCallback {
@@ -43,6 +43,8 @@ public class BeyondarLocationManagerMapActivity extends FragmentActivity impleme
 	private GoogleMap mMap;
 	private GoogleMapWorldPlugin mGoogleMapPlugin;
 	private World mWorld;
+	private 	MarkerOptions user;
+	private Marker marker;
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -72,26 +74,13 @@ public class BeyondarLocationManagerMapActivity extends FragmentActivity impleme
 		// Now that we have the plugin created let's add it to our world.
 		// NOTE: It is better to load the plugins before start adding object in
 		// to the world.
-		mWorld.addPlugin(mGoogleMapPlugin);
 
-		mMap.setOnMarkerClickListener(this);
 
-		mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(mGoogleMapPlugin.getLatLng(), 15));
-		mMap.animateCamera(CameraUpdateFactory.zoomTo(19), 2000, null);
-
-		// Lets add the user position to the map
-		GeoObject user = new GeoObject(1000l);
-		user.setGeoPosition(mWorld.getLatitude(), mWorld.getLongitude());
-		user.setImageResource(R.drawable.flag);
-		user.setName("User position");
-		mWorld.addBeyondarObject(user);
-
-		BeyondarLocationManager.addWorldLocationUpdate(mWorld);
-		BeyondarLocationManager.addGeoObjectLocationUpdate(user);
 
 		// We need to set the LocationManager to the BeyondarLocationManager.
 		BeyondarLocationManager
 				.setLocationManager((LocationManager) getSystemService(Context.LOCATION_SERVICE));
+
 	}
 
 	@Override
@@ -130,11 +119,35 @@ public class BeyondarLocationManagerMapActivity extends FragmentActivity impleme
 		LatLng userLocation = new LatLng(mWorld.getLatitude(), mWorld.getLongitude());
 		mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userLocation, 15));
 		mMap.animateCamera(CameraUpdateFactory.zoomTo(19), 2000, null);
+		marker.setPosition(userLocation);
 	}
 
 
 	@Override
 	public void onMapReady(GoogleMap map) {
 		mMap = map;
+		mWorld.addPlugin(mGoogleMapPlugin);
+
+		mMap.setOnMarkerClickListener(this);
+
+		mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(mGoogleMapPlugin.getLatLng(), 15));
+		mMap.animateCamera(CameraUpdateFactory.zoomTo(19), 2000, null);
+		// Lets add the user position to the map
+//		GeoObject user = new GeoObject(1000l);
+//		user.setGeoPosition(mWorld.getLatitude(), mWorld.getLongitude());
+//		user.setImageResource(R.drawable.flag);
+//		user.setName("User position");
+//		mWorld.addBeyondarObject(user);
+		user = new MarkerOptions()
+				.position(new LatLng(mWorld.getLatitude(), mWorld.getLongitude()))
+				.title("Niza")
+				.snippet("Hi there")
+				.rotation((float) 3.5);
+		marker = mMap.addMarker(user);
+
+
+		BeyondarLocationManager.addWorldLocationUpdate(mWorld);
+//		BeyondarLocationManager.addGeoObjectLocationUpdate(user);
+
 	}
 }

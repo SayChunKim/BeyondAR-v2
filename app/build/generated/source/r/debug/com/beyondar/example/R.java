@@ -310,13 +310,14 @@ containing a value of this type.
         public static final int ic_launcher=0x7f02001d;
         public static final int image_test=0x7f02001e;
         public static final int image_test_pow2_small=0x7f02001f;
-        public static final int object_stuff=0x7f020020;
-        public static final int pow2__image_test=0x7f020021;
-        public static final int pow__image_test=0x7f020022;
-        public static final int radar_bg_small=0x7f020023;
-        public static final int radar_north_small=0x7f020024;
-        public static final int rectangle=0x7f020025;
-        public static final int splash=0x7f020026;
+        public static final int landmark_marker=0x7f020020;
+        public static final int object_stuff=0x7f020021;
+        public static final int pow2__image_test=0x7f020022;
+        public static final int pow__image_test=0x7f020023;
+        public static final int radar_bg_small=0x7f020024;
+        public static final int radar_north_small=0x7f020025;
+        public static final int rectangle=0x7f020026;
+        public static final int splash=0x7f020027;
     }
     public static final class id {
         public static final int adjust_height=0x7f090000;

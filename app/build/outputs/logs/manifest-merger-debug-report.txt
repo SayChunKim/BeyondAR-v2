@@ -1,195 +1,199 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:2:1-67:12
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:2:1-68:12
 	package
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:3:5-35
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:3:5-35
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:5:5-32
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
 	android:versionCode
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:4:5-33
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:4:5-33
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:23:5-42
-MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:24.0.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:21:5-23:54
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.0.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:support-v4:24.0.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:23:9-51
 	android:targetSdkVersion
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:8:9-34
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:12:5-79
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:19:5-78
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:12:22-76
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:12:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:13:5-81
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:13:5-81
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:13:22-78
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:13:22-78
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:14:5-98
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:14:5-98
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:14:22-95
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:14:22-95
 uses-permission#android.permission.CAMERA
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:17:5-65
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:17:5-65
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:17:22-62
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:17:22-62
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:18:5-81
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:18:5-81
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:18:22-78
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:18:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:19:5-79
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:19:5-79
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:19:22-76
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:19:22-76
 uses-permission#android.permission.INTERNET
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:22:5-67
-MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:20:5-66
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:22:22-64
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:22:22-64
 uses-feature#android.hardware.camera
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:25:5-60
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:25:5-60
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:25:19-57
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:25:19-57
 uses-feature#android.hardware.sensor.accelerometer
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:26:5-74
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:26:5-74
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:26:19-71
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:26:19-71
 uses-feature#android.hardware.sensor.compass
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:27:5-68
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:27:5-68
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:27:19-65
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:27:19-65
 application
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:29:5-65:19
-MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:24:5-19
-MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.0.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:29:5-66:19
+MERGED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-location:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.8.0/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:32:9-41
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:32:9-41
 	android:allowBackup
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:30:9-35
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:30:9-35
 	android:icon
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:31:9-45
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:31:9-45
 	android:theme
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:33:9-40
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:33:9-40
 activity#com.beyondar.example.BeyondarExamples
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:34:9-42:20
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:34:9-42:20
 	android:label
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:36:13-45
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:36:13-45
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:35:13-65
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:35:13-65
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:37:13-41:29
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:37:13-41:29
 action#android.intent.action.MAIN
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:38:17-69
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:38:17-69
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:38:25-66
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:38:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:40:17-77
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:40:17-77
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:40:27-74
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:40:27-74
 activity#com.beyondar.example.SimpleCameraActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:43:9-78
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:43:9-78
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:43:19-75
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:43:19-75
+activity#com.beyondar.example.TourismGoPOIActivity
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:44:9-78
+	android:name
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:44:19-75
 activity#com.beyondar.example.GoogleMapActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:44:9-75
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:45:9-75
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:44:19-72
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:45:19-72
 activity#com.beyondar.example.CameraWithTouchEventsActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:45:9-87
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:46:9-87
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:45:19-84
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:46:19-84
 activity#com.beyondar.example.CameraWithGoogleMapsActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:46:9-86
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:47:9-86
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:46:19-83
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:47:19-83
 activity#com.beyondar.example.SimpleCameraWithMaxFarMinAwayActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:47:9-95
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:48:9-95
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:47:19-92
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:48:19-92
 activity#com.beyondar.example.CameraWithScreenShotActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:48:9-86
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:49:9-86
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:48:19-83
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:49:19-83
 activity#com.beyondar.example.ChangeGeoObjectImagesOnTouchActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:49:9-94
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:50:9-94
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:49:19-91
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:50:19-91
 activity#com.beyondar.example.AttachViewToGeoObjectActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:50:9-87
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:51:9-87
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:50:19-84
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:51:19-84
 activity#com.beyondar.example.StaticViewGeoObjectActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:51:9-85
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:52:9-85
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:51:19-82
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:52:19-82
 activity#com.beyondar.example.SimpleCameraWithCustomFilterActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:52:9-94
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:53:9-94
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:52:19-91
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:53:19-91
 activity#com.beyondar.example.SimpleCameraWithRadarActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:53:9-87
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:54:9-87
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:53:19-84
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:54:19-84
 activity#com.beyondar.example.BeyondarLocationManagerMapActivity
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:54:9-92
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:55:9-92
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:54:19-89
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:55:19-89
 meta-data#com.google.android.maps.v2.API_KEY
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:59:9-61:71
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:60:9-62:71
 	android:value
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:61:13-68
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:62:13-68
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:60:13-62
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:61:13-62
 meta-data#com.google.android.gms.version
-ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:62:9-64:69
-MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:20:9-121
+ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:63:9-65:69
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:64:13-66
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:65:13-66
 	android:name
-		ADDED from /Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/AndroidManifest.xml:63:13-58
+		ADDED from /Users/saychunkim/Documents/BeyondAR-v2/app/src/main/AndroidManifest.xml:64:13-58
 uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:20:5-81
+ADDED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.8.0/AndroidManifest.xml:20:5-81
 	android:name
-		ADDED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:20:22-79
+		ADDED from [com.google.android.gms:play-services-gcm:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.8.0/AndroidManifest.xml:20:22-79
 uses-feature#0x00020000
-ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:5-77
+ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:19-51
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:19-51
 	android:required
-		ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:52-75
+		ADDED from [com.google.android.gms:play-services-maps:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.8.0/AndroidManifest.xml:21:52-75
 activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:9-172
+ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:9-172
 	android:exported
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:146-170
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:146-170
 	android:theme
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:86-145
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:86-145
 	android:name
-		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] /Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/AndroidManifest.xml:19:19-85

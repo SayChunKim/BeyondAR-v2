@@ -54,7 +54,7 @@ public class BeyondarExamples extends Activity implements OnItemClickListener {
 	public void onItemClick(AdapterView<?> arg0, View arg1, int pos, long arg3) {
 		switch (pos) {
 		case 0:
-			openActivity(SimpleCameraActivity.class);
+			openActivity(TourismGoPOIActivity.class);
 			break;
 		case 1:
 			openActivity(SimpleCameraWithMaxFarMinAwayActivity.class);

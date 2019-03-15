@@ -27,7 +27,10 @@ import com.google.android.gms.maps.GoogleMap;
 import com.google.android.gms.maps.GoogleMap.OnMarkerClickListener;
 import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
+import com.google.android.gms.maps.model.BitmapDescriptorFactory;
+import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.Marker;
+import com.google.android.gms.maps.model.MarkerOptions;
 
 public class GoogleMapActivity extends FragmentActivity implements OnMarkerClickListener,OnMapReadyCallback {
 
@@ -55,17 +58,6 @@ public class GoogleMapActivity extends FragmentActivity implements OnMarkerClick
 		// NOTE: It is better to load the plugins before start adding object in to the world.
 		mWorld.addPlugin(mGoogleMapPlugin);
 
-		mMap.setOnMarkerClickListener(this);
-
-		mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(mGoogleMapPlugin.getLatLng(), 15));
-		mMap.animateCamera(CameraUpdateFactory.zoomTo(19), 2000, null);
-		
-		// Lets add the user position
-		GeoObject user = new GeoObject(1000l);
-		user.setGeoPosition(mWorld.getLatitude(), mWorld.getLongitude());
-		user.setImageResource(R.drawable.flag);
-		user.setName("User position");
-		mWorld.addBeyondarObject(user);
 	}
 
 	@Override
@@ -82,6 +74,28 @@ public class GoogleMapActivity extends FragmentActivity implements OnMarkerClick
 	}
 	@Override
 	public void onMapReady(GoogleMap map) {
+
 		mMap = map;
+		mMap.setOnMarkerClickListener(this);
+
+		mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(mGoogleMapPlugin.getLatLng(), 15));
+		mMap.animateCamera(CameraUpdateFactory.zoomTo(19), 2000, null);
+
+		// Lets add the user position
+		GeoObject user = new GeoObject(1000l);
+		user.setGeoPosition(mWorld.getLatitude(), mWorld.getLongitude());
+		user.setImageResource(R.drawable.flag);
+
+		mMap.addMarker(new MarkerOptions()
+				.position(new LatLng(mWorld.getLatitude(), mWorld.getLongitude()))
+				.title("User")
+				.snippet("I'm here")
+				.rotation((float) 3.5)
+				.icon(BitmapDescriptorFactory.fromResource(R.drawable.landmark_marker))
+		);
+		user.setName("User position");
+		mWorld.addBeyondarObject(user);
+
 	}
+
 }

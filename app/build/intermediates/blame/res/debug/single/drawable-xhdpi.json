@@ -1,11 +1,11 @@
 [
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
-    },
-    {
         "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png",
         "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable-xhdpi/common_signin_btn_icon_pressed_light.9.png"
+    },
+    {
+        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png",
+        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable-xhdpi/common_signin_btn_icon_focus_dark.9.png"
     },
     {
         "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_icon_normal_dark.9.png",
@@ -58,6 +58,10 @@
     {
         "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_normal_light.9.png",
         "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable-xhdpi/common_signin_btn_text_normal_light.9.png"
+    },
+    {
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-xhdpi/ic_launcher.png"
     },
     {
         "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-xhdpi/common_signin_btn_text_disabled_focus_dark.9.png",

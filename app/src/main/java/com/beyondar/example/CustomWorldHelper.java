@@ -42,9 +42,9 @@ public class CustomWorldHelper {
 
 		// Create an object with an image in the app resources.
 		GeoObject go1 = new GeoObject(1l);
-		go1.setGeoPosition(41.90523339794433d, 2.565036406654116d);
-		go1.setImageResource(R.drawable.creature_1);
-		go1.setName("Creature 1");
+		go1.setGeoPosition(2.918283, 101.772440);
+		go1.setImageResource(R.drawable.landmark_marker);
+		go1.setName("Dewan Kuliah yang tersayang");
 
 		// Is it also possible to load the image asynchronously form internet
 		GeoObject go2 = new GeoObject(2l);

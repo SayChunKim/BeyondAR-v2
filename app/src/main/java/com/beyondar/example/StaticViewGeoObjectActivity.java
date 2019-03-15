@@ -15,12 +15,9 @@
  */
 package com.beyondar.example;
 
-import java.io.File;
-import java.io.IOException;
-import java.util.ArrayList;
-
 import android.os.Bundle;
 import android.support.v4.app.FragmentActivity;
+import android.util.Log;
 import android.view.View;
 import android.view.Window;
 import android.widget.TextView;
@@ -32,6 +29,10 @@ import com.beyondar.android.view.OnClickBeyondarObjectListener;
 import com.beyondar.android.world.BeyondarObject;
 import com.beyondar.android.world.BeyondarObjectList;
 import com.beyondar.android.world.World;
+
+import java.io.File;
+import java.io.IOException;
+import java.util.ArrayList;
 
 public class StaticViewGeoObjectActivity extends FragmentActivity implements
 		OnClickBeyondarObjectListener {
@@ -93,6 +94,7 @@ public class StaticViewGeoObjectActivity extends FragmentActivity implements
 					// If there are no errors we can tell the object to use the
 					// view that we just stored
 					beyondarObject.setImageUri(path + imageName);
+					Log.v("OBJ:",beyondarObject.getName());
 				} catch (IOException e) {
 					e.printStackTrace();
 				}
