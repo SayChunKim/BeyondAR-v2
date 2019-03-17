@@ -1,7 +1,7 @@
 [
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/simple_camera_with_distance_seekbars.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/simple_camera_with_distance_seekbars.xml"
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/simple_camera_with_distance_seekbars.xml",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/simple_camera_with_distance_seekbars.xml"
     },
     {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/simple_camera_with_filter_controler.xml",
@@ -12,20 +12,12 @@
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/camera_with_text.xml"
     },
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/map_google.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/map_google.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/custom_image_dialog.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/custom_image_dialog.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/camera_with_google_maps.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/camera_with_google_maps.xml"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/map_google.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/map_google.xml"
+    },
+    {
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/camera_with_google_maps.xml",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/camera_with_google_maps.xml"
     },
     {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/main.xml",
@@ -40,6 +32,10 @@
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/custom_image_dialog.xml"
     },
     {
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/simple_camera.xml",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/simple_camera.xml"
+    },
+    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/static_beyondar_object_view.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/static_beyondar_object_view.xml"
     },
@@ -48,51 +44,7 @@
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/camera_with_screenshot.xml"
     },
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/simple_camera_with_radar.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/simple_camera_with_radar.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/camera_with_text.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/camera_with_text.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/camera_with_screenshot.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/camera_with_screenshot.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/simple_camera_with_distance_seekbars.xml",
-        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/simple_camera_with_distance_seekbars.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/static_beyondar_object_view.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/static_beyondar_object_view.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/beyondar_object_view.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/beyondar_object_view.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/camera_with_google_maps.xml",
-        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/camera_with_google_maps.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/simple_camera.xml",
-        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/simple_camera.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/simple_camera_with_filter_controler.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/simple_camera_with_filter_controler.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/simple_camera.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/simple_camera.xml"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/layout/simple_camera_with_radar.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/layout/simple_camera_with_radar.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/layout/main.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/layout/main.xml"
     }
 ]

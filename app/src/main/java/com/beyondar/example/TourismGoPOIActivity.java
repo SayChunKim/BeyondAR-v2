@@ -58,6 +58,8 @@ public class TourismGoPOIActivity extends FragmentActivity implements OnClickBey
 				R.id.beyondarFragment);
 
 		mBeyondarFragment.setOnClickBeyondarObjectListener(this);
+		mBeyondarFragment.setMaxDistanceToRender(1000);
+		mBeyondarFragment.setPullCloserDistance(10);
 
 		BeyondarLocationManager.setLocationManager((LocationManager) this.getSystemService(Context.LOCATION_SERVICE));
 

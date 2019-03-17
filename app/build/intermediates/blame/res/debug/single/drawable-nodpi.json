@@ -1,79 +1,19 @@
 [
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/splash.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/splash.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/pow__image_test.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/pow__image_test.png"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_4.png",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/creature_4.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/flag.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/flag.png"
     },
     {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/image_test.png",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/image_test.png"
     },
     {
-        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/object_stuff.png",
-        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/object_stuff.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_1.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/creature_1.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_4.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/creature_4.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/image_test_pow2_small.png",
-        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/image_test_pow2_small.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/image_test.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/image_test.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/pow2__image_test.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/pow2__image_test.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/pow__image_test.png",
-        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/pow__image_test.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/rectangle.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/rectangle.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/image_test_pow2_small.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/image_test_pow2_small.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_1.png",
-        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/creature_1.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_6.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/creature_6.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_3.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/creature_3.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/object_stuff.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/object_stuff.png"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/splash.png",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/splash.png"
+    },
+    {
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/object_stuff.png",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/object_stuff.png"
     },
     {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_2.png",
@@ -92,12 +32,16 @@
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/creature_6.png"
     },
     {
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/image_test_pow2_small.png",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/image_test_pow2_small.png"
+    },
+    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_3.png",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/creature_3.png"
     },
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_2.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/creature_2.png"
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/pow__image_test.png",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/pow__image_test.png"
     },
     {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/rectangle.png",
@@ -108,15 +52,11 @@
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/pow2__image_test.png"
     },
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_5.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/creature_5.png"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable-nodpi/beyondar_default_unknow_icon.png",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/src/main/res/drawable-nodpi/beyondar_default_unknow_icon.png"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/beyondar_default_unknow_icon.png",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/beyondar_default_unknow_icon.png"
+    },
+    {
+        "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable-nodpi/creature_1.png",
+        "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/src/main/res/drawable-nodpi/creature_1.png"
     }
 ]

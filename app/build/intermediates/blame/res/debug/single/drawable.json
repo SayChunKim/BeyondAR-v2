@@ -1,17 +1,5 @@
 [
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_light.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_text_light.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_light.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_icon_light.xml"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
     },
@@ -20,63 +8,27 @@
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_text_dark.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_text_dark.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_signin_btn_icon_dark.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/res/drawable/common_signin_btn_icon_dark.xml"
     },
     {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_light_focused.xml"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_light.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_dark_focused.xml"
-    },
-    {
         "merged": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
         "source": "/Users/saychunkim/Documents/BeyondAR-v2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
-        "merged": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
-        "source": "/Users/saychunkim/Desktop/BeyondAR_Examples1/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/drawable/common_google_signin_btn_text_light_focused.xml"
     }
 ]
